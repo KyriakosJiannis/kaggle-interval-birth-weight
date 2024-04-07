@@ -24,7 +24,7 @@ catboost_info
 test
 input
 
-# at pcloyd
+# files https://filedn.com/lK8J7mCaIwsQFcheqaDLG5z/data/Kaggle-interval-birth/
 output/imputed_train1.pkl
 output/imputed_test1.pkl
 output/model.pkl
