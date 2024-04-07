@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#IDE
+.idea
+# Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+environment.yml
+
+#Model f
+catboost_info
+
+# test files
+test
+input
+
+UserGuide2018-508.pdf
