@@ -24,4 +24,9 @@ catboost_info
 test
 input
 
+# at pcloyd
+output/imputed_test1.pkl
+output/imputed_test2.pkl
+output/model.pkl
+
 UserGuide2018-508.pdf
