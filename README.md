@@ -91,6 +91,7 @@ conda create --n kaggle-interval python=3.11
 
 # Install the required dependencies
 pip install -r requirements.txt
+pip install git+https://github.com/KyriakosJiannis/python_modules.git@main
 ```
 
 ## License
